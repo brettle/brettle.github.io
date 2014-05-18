@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Ramblings of a geeky homeschooling dad</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Talk about getting distracted!</title>
+        <description>&lt;p&gt;I decided to start this blog/site because I have several ideas I want to write about
+before I get distracted by something else and forget them. I then proceeded to spend the
+rest of the day getting distracted by learning about &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, the 
+software that I&amp;#39;m using to create the site. Sigh... Well, at least it was educational.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 17 May 2014 19:32:00 -0700</pubDate>
+        <link>/jekyll/2014/05/17/talk-about-getting-distracted.html</link>
+        <guid isPermaLink="true">/jekyll/2014/05/17/talk-about-getting-distracted.html</guid>
+      </item>
+    
+  </channel>
+</rss>
