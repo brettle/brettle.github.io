@@ -1,6 +1,6 @@
 name: I Got Distracted
 description: Ramblings of a geeky homeschooling dad
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 baseurl: ""
 
