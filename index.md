@@ -15,7 +15,7 @@ title: I Got Distracted
 # Other Stuff
 ## About Me
 
-My name is Dean Brettle and I'm an unabashed computer, math, and science geek. I started programming in 1980 at age 10 (on a TRS-80 Color Computer). After graduating from Caltech in 1992, I did software development and technology consulting, specializing in pattern recognition, image processing, control systems, and computer security. In 2004 I quit to raise my two kids. I've now been homeschooling them since kindergarten. 
+My name is Dean Brettle and I'm an unabashed computer, math, and science geek. I started programming in 1980 at age 10 (on a TRS-80 Color Computer). After graduating from Caltech in 1992, I did software development and technology consulting, specializing in pattern recognition, image processing, control systems, and computer security. In 2004 I quit to raise my two kids. I've now been homeschooling them since kindergarten.  
 
 ## About This Site
 
