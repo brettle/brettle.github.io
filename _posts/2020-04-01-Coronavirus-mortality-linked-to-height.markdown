@@ -1,4 +1,4 @@
-= Coronavirus mortality linked to height
+# Coronavirus mortality linked to height
 
 Researchers in Silicon Valley have discovered that taller people are more susceptible to Coronavirus Disease 2019 (COVID-19). The link explains a lot of the differences seen between groups in the current pandemic and may mean that taller people should take additional precautionary measures. 
 
